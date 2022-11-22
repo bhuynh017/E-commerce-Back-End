@@ -7,6 +7,7 @@
 
   ## Live Server
 
+  https://bhuynh017.github.io/E-commerce-Back-End/
 
   ## Walkthrough Video 
   https://drive.google.com/file/d/1W1fTG3x6ea-D8aoY1JHThaAbTA5j9RSD/view
